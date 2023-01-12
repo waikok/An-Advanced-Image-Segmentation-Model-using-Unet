@@ -11,7 +11,7 @@ This project is designed to build an advanced image segmentation model using U-N
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a7570797465722d2532334641304630302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a757079746572266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/121808701/211538976-bf10c6b8-ffbd-4f95-804e-d7b4a1449880.svg)
 
 ## Achievement and limitation of this model
-Due to the time and hardware contrainsts, the model has been trained to achieve its best results.  This model has achieved an accuracy of 99.8% and loss rate of 0.021. 
+Due to the time and hardware contrainsts, the model has been trained to achieve its best results.  This model has achieved an accuracy of 93.6% and loss rate of 0.13. 
 
 ## Citation
 Title: 2018 Data Science Bowl
@@ -26,11 +26,6 @@ Source: https://www.kaggle.com/competitions/data-science-bowl-2018/overview/
 
 ### Accuracy (Training vs Validation, Loss vs Validation_Loss)
 ![Training vs Validation, Loss vs Validation Loss Chart](https://user-images.githubusercontent.com/121808701/212067141-b7b80841-5254-4df4-9ed9-34888dcc0d9c.png)
-
-
-### Model Evaluation
-
-
 
 ### Tensorboard
 ![epoch_acc chart](https://user-images.githubusercontent.com/121808701/212067220-6e911034-fd70-435d-80e5-f4b4a7762d20.png)
